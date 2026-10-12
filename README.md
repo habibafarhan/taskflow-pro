@@ -4,9 +4,9 @@
 
 **Enterprise project management dashboard with Kanban, analytics, dark mode, and full English/Arabic (RTL) support.**
 
-[Live Demo](https://your-app.vercel.app) · [Report Bug](https://github.com/your-username/taskflow-pro/issues)
+[Live Demo](https://habibafarhan.github.io/taskflow-pro/)
 
-![TaskFlow PRO Dashboard](./screenshots/dashboard-dark.png)
+
 
 </div>
 
